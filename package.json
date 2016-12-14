@@ -1,0 +1,17 @@
+{
+  "name": "vue-axios",
+  "version": "1.0.0",
+  "description": "for axios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node test.js"
+  },
+  "author": "bluezip",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.15.3",
+    "lodash": "^4.17.2",
+    "vue": "^2.1.6"
+  }
+}
